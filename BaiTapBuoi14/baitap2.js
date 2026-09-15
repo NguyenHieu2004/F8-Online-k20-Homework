@@ -28,4 +28,3 @@ console.log(calculateScore(2, "abc", false));
 console.log(calculateScore(5, 15, null));
 console.log(calculateScore(5, 15, "yes"));
 console.log(calculateScore(5, 15, undefined));
-

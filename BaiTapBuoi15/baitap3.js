@@ -58,6 +58,7 @@ function analyzeClass(scores) {
       minScore: null,
       averageScore: 0,
       remark: "Không có dữ liệu hợp lệ"
+
     };
   }
 
@@ -85,12 +86,12 @@ function analyzeClass(scores) {
       gioi: gioi,
       kha: kha,
       trungBinh: trungBinh,
-      yeu: yeu
+      yeu: yeu,
     },
     maxScore: maxScore,
     minScore: minScore,
     averageScore: averageScore,
-    remark: remark
+    remark: remark,
   };
 }
 
